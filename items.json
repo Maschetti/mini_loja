@@ -1,0 +1,7 @@
+[
+  { "code": "POT01", "name": "Poção de Vida",   "price": 15, "rarity": "common" },
+  { "code": "POT02", "name": "Poção de Mana",   "price": 12, "rarity": "common" },
+  { "code": "SWR01", "name": "Espada de Bronze","price": 50, "rarity": "uncommon" },
+  { "code": "SWR02", "name": "Espada de Prata", "price": 120,"rarity": "rare" },
+  { "code": "ARM01", "name": "Armadura Leve",   "price": 80, "rarity": "uncommon" }
+]
